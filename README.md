@@ -6,4 +6,5 @@
 - TCP Socket API: [socketAPI.md](socketAPI.md)
 
 ## 참고자료
+- HTML tutorial: https://www.w3schools.com/html/
 - Web page 가져오기 - requests module: [http_requests.ipynb](http_requests.ipynb)
