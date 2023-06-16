@@ -4,3 +4,6 @@
 ## 추가 강의자료
 - [HTTP/1.0, HTTP/1.1 versus HTTP/2](https://gngsn.tistory.com/99)
 - TCP Socket API: [socketAPI.md](socketAPI.md)
+
+## 참고자료
+- Web page 가져오기 - requests module: [http_requests.ipynb](http_requests.ipynb)
